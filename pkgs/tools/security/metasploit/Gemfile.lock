@@ -226,7 +226,7 @@ GEM
     jmespath (1.6.2)
     jsobfu (0.4.2)
       rkelly-remix
-    json (2.7.1)
+    json (2.7.2)
     little-plugger (1.1.4)
     logging (2.3.1)
       little-plugger (~> 1.1)
@@ -315,7 +315,7 @@ GEM
     puma (6.4.2)
       nio4r (~> 2.0)
     racc (1.7.3)
-    rack (2.2.8.1)
+    rack (2.2.9)
     rack-protection (3.2.0)
       base64 (>= 0.1.0)
       rack (~> 2.2, >= 2.2.4)
